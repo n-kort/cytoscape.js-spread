@@ -1,4 +1,4 @@
-window.foograph = {
+const foograph = {
   /**
    * Insert a vertex into this graph.
    *
