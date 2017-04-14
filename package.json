@@ -2,9 +2,9 @@
   "name": "cytoscape-spread",
   "version": "1.3.0",
   "description": "The Spread physics simulation layout for Cytoscape.js",
-  "main": "cytoscape-spread.js",
+  "main": "src/index.js",
   "spm": {
-    "main": "./src/index.js"
+    "main": "cytoscape-spread.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
