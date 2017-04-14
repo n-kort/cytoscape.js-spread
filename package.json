@@ -4,7 +4,7 @@
   "description": "The Spread physics simulation layout for Cytoscape.js",
   "main": "cytoscape-spread.js",
   "spm": {
-    "main": "cytoscape-spread.js"
+    "main": "./src/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
